@@ -1,0 +1,13 @@
+html, body{
+    background-color: aquamarine;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;;
+    
+}
+
+
+button{
+    margin-bottom: 7px;
+    width: 200px;
+    height: 50px;
+}
